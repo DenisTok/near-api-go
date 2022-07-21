@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/textileio/near-api-go/rpc"
 )
 
 // MapRPCError converts a RPC error with nested informatoin to a error with a useful and complete message.

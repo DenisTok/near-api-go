@@ -8,12 +8,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/rpc"
 	"github.com/mr-tron/base58/base58"
 	"github.com/near/borsh-go"
 	logging "github.com/textileio/go-log/v2"
 	itypes "github.com/textileio/near-api-go/internal/types"
 	"github.com/textileio/near-api-go/keys"
+	"github.com/textileio/near-api-go/rpc"
 	"github.com/textileio/near-api-go/transaction"
 	"github.com/textileio/near-api-go/types"
 	"github.com/textileio/near-api-go/util"

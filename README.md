@@ -34,7 +34,7 @@ import (
   "github.com/textileio/near-api-go/keys"
   "github.com/textileio/near-api-go/transaction"
   "github.com/textileio/near-api-go/types"
-  "github.com/ethereum/go-ethereum/rpc"
+  "github.com/textileio/near-api-go/rpc"
 )
 
 ```
